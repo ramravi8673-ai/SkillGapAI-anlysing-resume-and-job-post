@@ -147,6 +147,6 @@ if jd_text.strip():
 # ------------------------------------------
 st.markdown("---")
 st.markdown(
-    "<p style='text-align:center; color:gray;'>Milestone 1 • Data Ingestion & Parsing • SkillGapAI Project • Developed by Suriya Varshan</p>",
+    "<p style='text-align:center; color:gray;'>Milestone 1 • Data Ingestion & Parsing • SkillGapAI Project • Developed by P K RAVI </p>",
     unsafe_allow_html=True
 )
